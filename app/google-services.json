@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008937119487",
+    "project_id": "oportunidad2-2fcae",
+    "storage_bucket": "oportunidad2-2fcae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008937119487:android:dc6e5ef19216c8ee9426ca",
+        "android_client_info": {
+          "package_name": "rosales.emmanuel.oportunidad2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlVxlZoNBv1sVyJ5rWnO4ClM7rrbbucI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
